@@ -3,19 +3,16 @@
 ### A food ordering mobile app built with react native for android and ios.
 
 ## Home Screen
-![alt text](https://i.ibb.co/whCDQCF/Whats-App-Image-2021-03-17-at-6-54-29-PM-1.jpg "screenshot of app home")
-
-![alt text](https://i.ibb.co/Wf4cxS5/Whats-App-Image-2021-03-17-at-6-54-29-PM.jpg "screenshot of app home")
-
-<img src="https://i.ibb.co/Wf4cxS5/Whats-App-Image-2021-03-17-at-6-54-29-PM.jpg" alt="drawing" width="100"/>
+<img src="https://i.ibb.co/whCDQCF/Whats-App-Image-2021-03-17-at-6-54-29-PM-1.jpg" alt="screenshot of app home" width="200"/>
+<img src="https://i.ibb.co/Wf4cxS5/Whats-App-Image-2021-03-17-at-6-54-29-PM.jpg" alt="screenshot of app home" width="200"/>
 
 ## Details Screen
-![alt text](https://i.ibb.co/grpRnsd/Whats-App-Image-2021-03-17-at-6-54-29-PM-2.jpg "screenshot of app home")
+<img src="https://i.ibb.co/grpRnsd/Whats-App-Image-2021-03-17-at-6-54-29-PM-2.jpg" alt="screenshot of app home" width="200"/>
 
 ## Cart Screen
-![alt text](https://i.ibb.co/VVG5hg6/Whats-App-Image-2021-03-17-at-6-54-30-PM.jpg "screenshot of app home")
+<img src="https://i.ibb.co/VVG5hg6/Whats-App-Image-2021-03-17-at-6-54-30-PM.jpg" alt="screenshot of app home" width="200"/>
 
 ## Categories
-![alt text](https://i.ibb.co/N1CkyhM/Whats-App-Image-2021-03-17-at-6-54-30-PM-2.jpg "screenshot of app home")
+<img src="https://i.ibb.co/N1CkyhM/Whats-App-Image-2021-03-17-at-6-54-30-PM-2.jpg" alt="screenshot of app home" width="200"/>
 
 ## React Native App for android and ios 
