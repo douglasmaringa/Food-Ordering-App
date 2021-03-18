@@ -7,6 +7,7 @@
 
 ![alt text](https://i.ibb.co/Wf4cxS5/Whats-App-Image-2021-03-17-at-6-54-29-PM.jpg "screenshot of app home")
 
+<img src="https://i.ibb.co/Wf4cxS5/Whats-App-Image-2021-03-17-at-6-54-29-PM.jpg" alt="drawing" width="100"/>
 
 ## Details Screen
 ![alt text](https://i.ibb.co/grpRnsd/Whats-App-Image-2021-03-17-at-6-54-29-PM-2.jpg "screenshot of app home")
